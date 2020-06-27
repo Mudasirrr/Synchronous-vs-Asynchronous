@@ -6,11 +6,11 @@ In programming, synchronous operations block instructions until the task is comp
 # Breaking Down JavaScript
 Javascript has a:
 
-Callstack
-WebAPI
-Event Loop
-Callback Queue
-The Callstack is the immediate work your program will do.
+## Callstack
+##  WebAPI
+## Event Loop
+## Callback Queue
+## The Callstack is the immediate work your program will do.
 
 # Synchronous Operations
 Synchronous Operations that run block the next operation until it completes. Blocking operations may not always seem like an issue because computers are fast. 
